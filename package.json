@@ -1,0 +1,23 @@
+{
+  "name": "monday",
+  "version": "1.0.0",
+  "description": "monday warmup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Metatronius/q2-wk2-monday-warmup.git"
+  },
+  "keywords": [
+    "warmup"
+  ],
+  "author": "@metatronius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metatronius/q2-wk2-monday-warmup/issues"
+  },
+  "homepage": "https://github.com/Metatronius/q2-wk2-monday-warmup#readme"
+}
